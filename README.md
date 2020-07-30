@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.com/rosewoodblues/cmake_cxx_project.svg?branch=master)](https://travis-ci.com/rosewoodblues/cmake_cxx_project)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/3qf9s1lsy1friks7?svg=true)](https://ci.appveyor.com/project/rosewoodblues/cmake-cxx-project/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/3qf9s1lsy1friks7?svg=true)](https://ci.appveyor.com/project/kenhawkins/cmake-cxx-project/branch/master)
 
 ![CMake](https://github.com/rosewoodblues/cmake_cxx_project/workflows/CMake/badge.svg)
 
