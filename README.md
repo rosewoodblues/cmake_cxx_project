@@ -1,4 +1,4 @@
-# cpp_starter_project
+# cmake_cxx_project
 
 [![codecov](https://codecov.io/gh/rosewoodblues/cmake_cxx_project/branch/master/graph/badge.svg)](https://codecov.io/gh/rosewoodblues/cmake_cxx_project)
 
