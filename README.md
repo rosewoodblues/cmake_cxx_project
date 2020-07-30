@@ -1,12 +1,12 @@
 # cpp_starter_project
 
-[![codecov](https://codecov.io/gh/kenhawkins/cmake_cxx_base/branch/master/graph/badge.svg?token=U6F1ZES9X3)](https://codecov.io/gh/kenhawkins/cmake_cxx_base)
+[![codecov](https://codecov.io/gh/rosewoodblues/cmake_cxx_project/branch/master/graph/badge.svg)](https://codecov.io/gh/rosewoodblues/cmake_cxx_project)
 
-[![Build Status](https://travis-ci.com/kenhawkins/cmake_cxx_base.svg?branch=master)](https://travis-ci.com/kenhawkins/cmake_cxx_base)
+[![Build Status](https://travis-ci.com/rosewoodblues/cmake_cxx_project.svg?branch=master)](https://travis-ci.com/rosewoodblues/cmake_cxx_project)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/kibpfhpuxo8frpba?svg=true)](https://ci.appveyor.com/project/kenhawkins/cmake-cxx-base/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/3qf9s1lsy1friks7?svg=true)](https://ci.appveyor.com/project/rosewoodblues/cmake-cxx-project/branch/master)
 
-![CMake](https://github.com/kenhawkins/cmake_cxx_base/workflows/CMake/badge.svg)
+![CMake](https://github.com/rosewoodblues/cmake_cxx_project/workflows/CMake/badge.svg)
 
 
 ## Getting Started
